@@ -16,5 +16,6 @@ fourth column: the correct letter answer[abc]
 
 * multiple choice questions
 * randomly diplay questions from a text file
-* tracking score, and saves hi score
+* won't display same question in a game  
+* score tracking and also saves hi score
 * winning conditions, and lives
