@@ -14,8 +14,9 @@ fourth column: the correct letter answer[abc]
 
 ```
 
-* multiple choice questions
+* multiple choice and open questions
 * randomly diplay questions from a text file
 * won't display same question in a game  
-* score tracking and also saves hi score
+* score/time tracking and also saves hi score
 * winning conditions, and lives
+* intro, gameover and screens with attract mode
